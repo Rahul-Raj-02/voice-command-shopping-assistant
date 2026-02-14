@@ -1,1 +1,0 @@
-# voice-command-shopping-assistant
