@@ -1,7 +1,7 @@
 import { Mic } from "lucide-react";
 const VoiceControl = () => {
   return (
-    <div className="bg-white rounded-3xl p-12 flex flex-col items-center justify-center space-y-8 shadow-2xl min-h-[500px]">
+    <div className="border-1 border-gray-500 rounded-3xl p-12 flex flex-col items-center justify-center space-y-8 shadow-2xl  max-h-150">
       <div className="relative">
         <div className="absolute -inset-4 bg-blue-100 rounded-full animate-pulse opacity-20"></div>
         <button className="relative bg-blue-600 p-8 rounded-full shadow-lg shadow-blue-200">

@@ -1,6 +1,6 @@
 import { Trash, Box, Funnel } from "lucide-react";
 const ShoppingList = () => {
-  const arr = [1, 2, 3, 4, 5];
+  const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 7];
   return (
     <>
       <div className="w-full">
@@ -16,9 +16,9 @@ const ShoppingList = () => {
           </span>
           <select className="bg-transparent text-blue-400 text-sm font-bold focus:outline-none cursor-pointer">
             <option value="all">All Prices</option>
-            <option value="50">Under ₹50</option>
-            <option value="100">Under ₹100</option>
-            <option value="500">Under ₹500</option>
+            <option value="50">Under $50</option>
+            <option value="100">Under $100</option>
+            <option value="500">Under $500</option>
           </select>
         </div>
 
