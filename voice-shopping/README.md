@@ -1,6 +1,9 @@
 # 🎙️ Voice-Command Shopping List
 A MERN stack-ready prototype that manages your shopping list via voice commands in English & Hinglish.
 
+## 🚀 Live Demo
+**[Click here to view the Live App](https://voice-command-shopping-assistant-three.vercel.app/)**
+
 ### ✨ Features
 - **Voice Commands:** Add items ("Add Bread"), remove items ("Hatao Milk"), and filter by price ("Price under 100").
 - **Hinglish Support:** Smartly parses Indian regional commands.
